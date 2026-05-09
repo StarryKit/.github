@@ -18,6 +18,8 @@ HTML is the most durable, portable, and universal content format ever created. W
 | Project | Description |
 |---------|-------------|
 | [starry-slides](https://github.com/StarryKit/starry-slides) | An HTML-first slide editor — create presentations as plain HTML |
+| [starry-docs](https://github.com/StarryKit/starry-docs) | An HTML-first document editor |
+| [starry-sheets](https://github.com/StarryKit/starry-sheets) | An HTML-first spreadsheet editor |
 
 ## Philosophy
 
