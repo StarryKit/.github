@@ -1,30 +1,33 @@
-# ⭐ StarryKit
+# StarryKit
 
-**Building the next generation of content creation tools — where HTML is the source of truth and humans work alongside AI agents.**
-
-## What We Do
-
-We build components for:
-
-- 📝 **HTML-First Editors** — Tools where HTML is the native file format. No proprietary formats, no lock-in. Your content lives in the open web's native language.
-- 🤖 **Human × Agent Collaboration** — Components that enable seamless co-creation between humans and AI agents. Write, edit, and generate content together.
-
-## Why HTML as Source
-
-HTML is the most durable, portable, and universal content format ever created. We believe editors should embrace it — not hide it behind layers of abstraction. What you see is what the web sees.
-
-## Projects
-
-| Project | Description |
-|---------|-------------|
-| [starry-slides](https://github.com/StarryKit/starry-slides) | An HTML-first slide editor — create presentations as plain HTML |
-| [starry-docs](https://github.com/StarryKit/starry-docs) | An HTML-first document editor |
-| [starry-sheets](https://github.com/StarryKit/starry-sheets) | An HTML-first spreadsheet editor |
+**We build the next generation of content creation tools, with HTML as the source of truth and human-AI collaboration at the core.**
 
 ## Philosophy
 
-> Great tools should be transparent. The file you edit should be the file the browser renders. No compilers, no build steps, no magic — just HTML, CSS, and the creative power of humans working with intelligent agents.
+### 📝 **HTML-First**
+HTML is the best-balanced format: intuitive for humans to read when rendered, yet structured and semantic enough for AI agents to understand.
+It also keeps content portable and free from vendor lock-in.
+
+### 🤖 **Human × Agent Collaboration**
+HTML becomes even more powerful when humans and AI work on the same source in a way that feels natural to both. StarryKit is built to make that collaboration intuitive.
+
+### 🌍 **Open Source**
+Great tools should be transparent, accessible, and open to everyone.
+
+### 🧩 **Bring Your Own Agent**
+Agentic tools should work with the agents you already use, instead of locking you into a new one. That way, your workflows and context stay with the work you create.
+
+## Projects
+
+StarryKit is building a family of tools for creating all kinds of digital content. Each product uses HTML as its source of truth, making content more portable, interoperable, and editable for both humans and AI agents.
+
+| Project                                                     | Description                       | Status            |
+| ----------------------------------------------------------- | --------------------------------- | ----------------- |
+| [starry-slides](https://github.com/StarryKit/starry-slides) | An HTML-first presentation editor | Under Development |
+| starry-docs                                                 | An HTML-first document editor     | Planned           |
+| starry-sheets                                               | An HTML-first spreadsheet editor  | Planned           |
+| starry-video                                                | An HTML-first video editor        | Planned           |
 
 ---
 
-*StarryKit is an open-source organization. Contributions welcome.*
+*StarryKit is an open-source organization. Contributions are always welcome.*
