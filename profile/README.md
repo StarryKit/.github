@@ -2,7 +2,6 @@
 
 <div align="center">
 
-[![starry-slides](https://img.shields.io/badge/starry--slides-released-blue?link=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2Fstarry-slides)](https://www.npmjs.com/package/starry-slides)
 
 <h1 style="border-bottom: none;">StarryKit</h1>
 
