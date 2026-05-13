@@ -1,9 +1,12 @@
 <img width="1774" height="449" alt="banner-tight" src="https://github.com/user-attachments/assets/c2f68848-b7d8-4096-8efc-bef41426000f" />
 
+<div align="center">
 
-# StarryKit
+<h1>StarryKit</h1>
 
-**We build the next generation of content creation tools, with HTML as the source of truth and human-AI collaboration at the core.**
+**Building next-gen content creation tools — HTML-first, human-AI native.**
+
+</div>
 
 ## Philosophy
 
