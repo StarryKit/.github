@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<h1>StarryKit</h1>
+<h1 style="border-bottom: none;">StarryKit</h1>
 
 **Content creation tools built on HTML, designed for humans and AI.**
 
