@@ -2,6 +2,8 @@
 
 <div align="center">
 
+[![starry-slides](https://img.shields.io/badge/starry--slides-released-blue?link=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2Fstarry-slides)](https://www.npmjs.com/package/starry-slides)
+
 <h1 style="border-bottom: none;">StarryKit</h1>
 
 **Content creation tools built on HTML, designed for humans and AI.**
@@ -27,12 +29,12 @@ Agentic tools should work with the agents you already use, instead of locking yo
 
 StarryKit is building a family of tools for creating all kinds of digital content. Each product uses HTML as its source of truth, making content more portable, interoperable, and editable for both humans and AI agents.
 
-| Project                                                     | Description                       | Status            |
-| ----------------------------------------------------------- | --------------------------------- | ----------------- |
-| [starry-slides](https://github.com/StarryKit/starry-slides) | An HTML-first presentation editor | Under Development |
-| starry-docs                                                 | An HTML-first document editor     | Planned           |
-| starry-sheets                                               | An HTML-first spreadsheet editor  | Planned           |
-| starry-video                                                | An HTML-first video editor        | Planned           |
+| Project                                                     | Description                       | Version                                                                                              |
+| ----------------------------------------------------------- | --------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| [starry-slides](https://github.com/StarryKit/starry-slides) | An HTML-first presentation editor | ![npm](https://img.shields.io/npm/v/starry-slides)                                                   |
+| starry-docs                                                 | An HTML-first document editor     | Planned                                                                                              |
+| starry-sheets                                               | An HTML-first spreadsheet editor  | Planned                                                                                              |
+| starry-video                                                | An HTML-first video editor        | Planned                                                                                              |
 
 ---
 
