@@ -1,9 +1,9 @@
-<img width="1774" height="449" alt="banner-tight" src="https://github.com/user-attachments/assets/c2f68848-b7d8-4096-8efc-bef41426000f" />
 
 <div align="center">
 
 
-<h1 style="border-bottom: none;">StarryKit</h1>
+<img alt="StarryKit" width="420" src="https://github.com/user-attachments/assets/00ab4343-5902-4d2a-8dde-b11788941360" />
+
 
 **Content creation tools built on HTML, designed for humans and AI.**
 
@@ -36,5 +36,7 @@ StarryKit is building a family of tools for creating all kinds of digital conten
 | starry-video                                                | An HTML-first video editor        | Planned                                                                                              |
 
 ---
+<img width="1774" height="449" alt="banner-tight" src="https://github.com/user-attachments/assets/c2f68848-b7d8-4096-8efc-bef41426000f" />
+
 
 *StarryKit is an open-source organization. Contributions are always welcome.*
