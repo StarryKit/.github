@@ -4,7 +4,7 @@
 
 <h1>StarryKit</h1>
 
-**Building next-gen content creation tools — HTML-first, human-AI native.**
+**Content creation tools built on HTML, designed for humans and AI.**
 
 </div>
 
