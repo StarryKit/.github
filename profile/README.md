@@ -11,7 +11,7 @@
 
 ## Philosophy
 
-### 📝 **HTML-First**
+### 📝 **HTML-Native**
 HTML is the best-balanced format: intuitive for humans to read when rendered, yet structured and semantic enough for AI agents to understand.
 It also keeps content portable and free from vendor lock-in.
 
